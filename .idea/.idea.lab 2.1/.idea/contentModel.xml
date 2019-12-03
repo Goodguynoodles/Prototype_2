@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\localadmin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\localadmin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_lab 2.1.-1742276230.00" t="ExcludeRecursive" />
+    <e p="D:\school\game\lab 2.1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="scripts" t="Include">
+          <e p="collision.cs" t="Include" />
+          <e p="Destroyonhit.cs" t="Include" />
+          <e p="DestroyOutOfBounds.cs" t="Include" />
+          <e p="feeding.cs" t="Include" />
+          <e p="movment.cs" t="Include" />
+          <e p="SpawnManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="lab 2.1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
